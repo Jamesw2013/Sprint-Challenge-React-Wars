@@ -58,7 +58,7 @@ Follow these steps for completing your project.
 Follow these steps for completing your project:
 
 - [x] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo).
-- [ ] Add your Project Manager as a Reviewer on the Pull-request.
+- [x] Add your Project Manager as a Reviewer on the Pull-request.
 - [ ] PM then will count the HW as done by  merging the branch back into master.
 
 Please note:
@@ -97,8 +97,8 @@ Your data set will look like this:
 
 Your finished project must include all of the following requirements:
 
-- [ ] A list of Star Wars Characters rendered to the screen.
-- [ ] You must have at least one list element for each star wars character in the data set.
+- [x] A list of Star Wars Characters rendered to the screen.
+- [x] You must have at least one list element for each star wars character in the data set.
 - [ ] The list elements must all be minimally styled. (Don't rely on browser default styles.)
 
 Required best practices:
